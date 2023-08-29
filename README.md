@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/7db36957d6b8781083ef2.jpg" alt="MrkillerDeveloper Logo">
+  <img src="[https://telegra.ph/file/7db36957d6b8781083ef2.jpg]([https://graph.org/file/de8124ffa7bd5ef3217d6.jpg](https://graph.org/file/de8124ffa7bd5ef3217d6.jpg))" alt="MarselDeveloper Logo">
 </p>
 <h1 align="center">
-  <b> MrkillerDeveloper BOT </b>
+  <b> MarselDeveloper BOT </b>
 </h1>
 
 ## ⚡️Features
